@@ -121,11 +121,11 @@ export default function Contact() {
             <CardContent className="space-y-4">
               <div className="flex items-center space-x-4">
                 <MapPin className="h-5 w-5 text-gray-500" />
-                <span>123 AI Health Street, Tech City, TC 12345</span>
+                <span>Lords Institute of Engineering and Technology</span>
               </div>
               <div className="flex items-center space-x-4">
                 <Phone className="h-5 w-5 text-gray-500" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 81257 09785</span>
               </div>
               <div className="flex items-center space-x-4">
                 <Mail className="h-5 w-5 text-gray-500" />
